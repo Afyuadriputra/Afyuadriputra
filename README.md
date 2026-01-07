@@ -1,12 +1,7 @@
-<!-- ===================================
-     CYBERPUNK ANIMATED GITHUB PROFILE
-     Afyuadri Putra - AI & Full-Stack Dev
-==================================== -->
+
 
 <div align="center">
 
-<!-- Header Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:00d4ff,100:ff006e&animation=fadeIn" />
 
 <!-- Animated Typing Header -->
 <h1>
